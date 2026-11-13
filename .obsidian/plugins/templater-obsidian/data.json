@@ -1,0 +1,52 @@
+{
+  "data_version": 2,
+  "command_timeout": 5,
+  "templates_folder": "templates",
+  "templates_pairs": [],
+  "trigger_on_file_creation_mode": "folder_templates",
+  "only_trigger_for_matching_files": false,
+  "auto_jump_to_cursor": true,
+  "jump_to_cursor_after_file_name": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "folder_templates": [
+    {
+      "folder": "Campaign-Vault/01-Sessions",
+      "template": "templates/Session Template.md"
+    },
+    {
+      "folder": "Campaign-Vault/02-Codex/02.01 Monsters",
+      "template": "templates/Monster Template.md"
+    },
+    {
+      "folder": "Campaign-Vault/02-Codex/02.02 Universal Traits",
+      "template": "templates/Universal Trait Template.md"
+    },
+    {
+      "folder": "Campaign-Vault/02-Codex/02.03 PCs",
+      "template": "templates/PC Template.md"
+    },
+    {
+      "folder": "Campaign-Vault/02-Codex/02.04 Important NPCs",
+      "template": "templates/NPC Template.md"
+    },
+    {
+      "folder": "Campaign-Vault/02-Codex/02.05 Locations",
+      "template": "templates/Location Template.md"
+    }
+  ],
+  "file_templates": [],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "templates/Session Template.md",
+    "templates/PC Template.md",
+    "templates/NPC Template.md",
+    "templates/Monster Template.md",
+    "templates/Universal Trait Template.md",
+    "templates/Location Template.md"
+  ],
+  "startup_templates": [],
+  "intellisense_render": "1",
+  "ignore_folders_on_creation": []
+}

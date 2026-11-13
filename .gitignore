@@ -1,0 +1,7 @@
+# Personal Obsidian workspace state (open tabs, window layout)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# OS files
+.DS_Store
+Thumbs.db

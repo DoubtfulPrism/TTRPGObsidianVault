@@ -1,0 +1,46 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "Campaign-Vault/01-Sessions",
+      "tag": "#session",
+      "pattern": ""
+    },
+    {
+      "folder": "Campaign-Vault/02-Codex/02.01 Monsters",
+      "tag": "#monster",
+      "pattern": ""
+    },
+    {
+      "folder": "Campaign-Vault/02-Codex/02.02 Universal Traits",
+      "tag": "#universal-trait",
+      "pattern": ""
+    },
+    {
+      "folder": "Campaign-Vault/02-Codex/02.03 PCs",
+      "tag": "#pc",
+      "pattern": ""
+    },
+    {
+      "folder": "Campaign-Vault/02-Codex/02.04 Important NPCs",
+      "tag": "#npc",
+      "pattern": ""
+    },
+    {
+      "folder": "Campaign-Vault/02-Codex/02.05 Locations",
+      "tag": "#location",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": true,
+  "excluded_folder": [
+    {
+      "folder": "^templates"
+    },
+    {
+      "folder": "^00-Start Here"
+    }
+  ]
+}
