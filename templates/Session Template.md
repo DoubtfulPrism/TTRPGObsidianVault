@@ -13,3 +13,6 @@ book: ""
 <% tp.file.cursor() %>
 
 ## Loot / Rewards
+
+## Session Title Ideas
+

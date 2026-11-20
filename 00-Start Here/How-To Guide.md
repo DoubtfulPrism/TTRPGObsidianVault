@@ -29,6 +29,8 @@ Every type of note (Session, PC, NPC, Monster, Universal Trait, Location) has a 
 
 > [!tip] Don't stress about perfection
 > These templates are intentionally light. Leave fields blank if you don't know them yet, and add your own headings or bullet points whenever you want to track more.
+> - **Multiple locations in one session?** Either pick the **most important location** to keep the Dashboard table tidy, or separate multiple links with commas (e.g., `**Location**:: [[Sandpoint]], [[Glassworks]]`).
+> - **Naming the session later?** Drop funny quotes or title ideas under `## Session Title Ideas` at the bottom during play, then rename the note afterward.
 
 ---
 
