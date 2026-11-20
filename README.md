@@ -13,6 +13,6 @@ A lightweight, shareable Obsidian vault template for Pathfinder 1st Edition play
 
 ## Included Plugins
 - **Dataview** — Powers the Campaign Dashboard tables and unresolved plot-thread checklist.
-- **Templater** — Auto-applies templates per folder and provides quick-insert templates (`Alt + E`).
+- **Templater** — Auto-applies templates per folder and provides quick-insert templates via the Command Palette (`Ctrl/Cmd + P` → *Templater*).
 - **Auto Note Mover** — Automatically files tagged notes into the right `Campaign-Vault/` folders.
 - **Homepage** — Opens `Campaign-Vault/Dashboard.md` in Reading View on startup.

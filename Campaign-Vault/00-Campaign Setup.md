@@ -19,7 +19,7 @@
 ## Before Session 1
 - [ ] Read the [[00-Start Here/How-To Guide|How-To Guide]] and browse the `00-Start Here/` demo notes.
 - [ ] Open [[Campaign-Vault/Dashboard|Campaign Dashboard]] and fill in the **Current Context** box (Adventure Path name and starting location).
-- [ ] Create your party's PC notes (right-click `02-Codex/02.03 PCs` → **New note**, or press `Ctrl/Cmd + N` then `Alt + E` and choose **PC Template**).
+- [ ] Create your party's PC notes (right-click `02-Codex/02.03 PCs` → **New note**, or press `Ctrl/Cmd + N`, then `Ctrl/Cmd + P` → *Templater: Open Insert Template modal* and choose **PC Template**).
 
 ---
 

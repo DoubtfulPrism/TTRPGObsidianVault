@@ -13,11 +13,11 @@ Every type of note (Session, PC, NPC, Monster, Universal Trait, Location) has a 
 ### Option A: Right-click a folder (Fastest)
 1. Right-click any folder inside `Campaign-Vault/` (for example, `01-Sessions` or `02-Codex/02.04 Important NPCs`) and click **New note**.
 2. Name your note (for example, `Session 04 - The Glassworks` or `Sheriff Belor Hemlock`).
-3. **That's it!** Templater automatically inserts the matching template for that folder—do **not** press `Alt + E` again.
+3. **That's it!** Templater automatically inserts the matching template for that folder—do **not** insert a template manually afterward.
 
-### Option B: Create from anywhere (`Ctrl/Cmd + N` → `Alt + E`)
+### Option B: Create from anywhere (`Ctrl/Cmd + N` → `Ctrl/Cmd + P`)
 1. Press `Ctrl + N` (Windows/Linux) or `Cmd + N` (Mac) and name your note.
-2. Press `Alt + E` (or press `Ctrl/Cmd + P`, type **Templater: Open Insert Template modal**, and press `Enter`).
+2. Press `Ctrl/Cmd + P` (or click the **Templater** icon in the left sidebar), type **Templater: Open Insert Template modal**, and press `Enter`. *(Note: `Alt + E` also works on some systems, though it can be intercepted on Windows.)*
 3. Pick the template you need:
    - **Session Template** → `Campaign-Vault/01-Sessions/`
    - **PC Template** → `Campaign-Vault/02-Codex/02.03 PCs/`
@@ -87,7 +87,7 @@ During a long Adventure Path, it is easy to lose track of mysteries and side que
 | :--- | :--- |
 | New note (auto-templated in folder) | Right-click folder → **New note** |
 | New note (anywhere) | `Ctrl + N` (Win/Linux) or `Cmd + N` (Mac) |
-| Insert template manually | `Alt + E` (or `Ctrl/Cmd + P` → *Templater*) |
+| Insert template manually | `Ctrl/Cmd + P` → *Templater: Open Insert Template modal* |
 | Link to another note | `[[Note Name]]` |
 | Link with custom text | `[[Note Name\|custom text]]` |
 | Embed a Universal Trait | `![[Trait Name]]` |
